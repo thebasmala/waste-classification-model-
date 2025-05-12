@@ -13,6 +13,26 @@ This project implements a machine learning solution for classifying different ty
 🎯 The goal is to assist in automated waste sorting and improve recycling efficiency.
 
 ---
+## Installation
+
+1. Clone the repo
+
+```shell
+git clone https://github.com/Basmla/PyOCR pyocr
+cd pyocr
+```
+2. Create a virtual environment.
+
+```shell
+python -m venv .venv
+source ./.venv/bin/activate
+```
+
+3. Install the requirements
+
+```shell
+pip install -r requirements.txt
+```
 
 ## 🖼️ Image Processing Pipeline
 
